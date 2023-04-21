@@ -80,11 +80,11 @@ main{
 }
 
 #gift-img-happy:hover {
-    background-image: url("images/happy.gif");
+    background-image: url("https://media1.giphy.com/media/chzz1FQgqhytWRWbp3/200w.webp?cid=ecf05e47pzgv7kldm0ph2losfs7i8lg8ylk0ex6s6h6iejy9&rid=200w.webp&ct=g");
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/hot.gif");
+    background-image: url("https://media0.giphy.com/media/3NtY188QaxDdC/200w.webp?cid=ecf05e47pzgv7kldm0ph2losfs7i8lg8ylk0ex6s6h6iejy9&rid=200w.webp&ct=g");
 }
 
 #gift-img-genius:hover {
