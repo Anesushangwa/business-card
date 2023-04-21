@@ -75,7 +75,7 @@ main{
     height: 400px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2021/01/27/08/42/valentine-5954177_1280.jpg");
     background-size: cover;
 }
 
