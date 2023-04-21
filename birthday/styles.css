@@ -26,7 +26,7 @@ main{
 }
 
 #bday-age {
-    background: #FFF000;
+    background-color: #0009;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
@@ -34,7 +34,7 @@ main{
 
 #bday-date {
     margin: 0;
-    background: #FFF000;
+    background-color: #0009;
     padding: 5px 10px;
     border-radius: 5px;
 }
